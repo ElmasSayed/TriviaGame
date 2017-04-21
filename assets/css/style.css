@@ -1,0 +1,114 @@
+#body{
+	font-family: 'Bitter', serif;
+	color: white;
+	background-color: #292929;
+	
+}
+
+h1{
+	text-align: center;
+	color: white;
+	background-color: black;
+	border-style: solid;
+    border-color: pink;
+    border-width: 10px;
+	padding: 30px;
+}
+
+legend{
+	color: white;
+}
+
+fieldset{
+	font-size:20px;
+}
+
+img{
+	margin-right: 30px;
+	width: 375px; 
+}
+
+.jumbotron{
+	margin-top: 4px;
+	padding-top: 12px;
+}
+
+#start{
+	background-color: darkgray;
+	height: 80px;
+	width: 120px;
+	float: right;
+	display: block;
+	border-style: solid;
+    border-color: pink;
+    border-width: 10px;
+    color: black;
+    font-size: 30px;
+	margin: -10px;
+}
+
+#timer{
+	position: fixed;
+	font-size: 100px;
+	width: 200px;
+	text-align: center;
+	background-color: white;
+	color: black;
+
+}
+
+
+.questions{
+	color: white;
+}
+
+.radio{
+	padding-left: 70px;
+}
+
+.qs{
+	padding-left: 100px;
+	border-color: red;
+	border-width: 1px;
+	border-radius: 1px;
+}
+
+#submit {
+	background-color: darkgray;
+	height: 100px;
+	width: 150px;
+	/*float: right;
+	display: block;
+	position: fixed;*/
+	margin: 50px;
+	border-style: solid;
+    border-color: pink;
+    border-width: 10px;
+    color: black;
+    font-size: 30px;
+}
+
+#footer{	
+	background-color: #292929;
+	text-align: center;
+	color: white;
+	font-size: 9px;
+	padding:5px;
+	border-top-style: solid;
+    border-top-color: pink;
+    border-width: 3px;
+    width:100%;
+}
+
+#resultpage{
+	height: 90%;
+	width: 90%;
+	background-color: black;
+	border-style: solid;
+    border-color: pink;
+    border-width: 10px;
+    display: none;
+    margin-bottom: 10px;
+}
+
+/*background-image: url("assets/images/horror.jpg");*/
